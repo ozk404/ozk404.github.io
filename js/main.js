@@ -59,7 +59,7 @@ jQuery(function ($) {
 
    if ($('.countdown').length > 0) {
       $(".countdown").jCounter({
-         date: '22 March 2020 08:00:00',
+         date: '26 October 2020 20:00:00',
          fallback: function () {
             console.log("count finished!")
          }
